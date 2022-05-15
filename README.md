@@ -1,16 +1,16 @@
-### Hi there 👋
+# 😎Olá, eu sou João Ricardo😎           
 
-<!--
-**JoaoRicardoLabres/JoaoRicardoLabres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou partici do curso **Formadores em Ação**
 
-Here are some ideas to get you started:
+- Sou professo de Matemática;
+-   Atualmente sou  aluno do componente curricular Pensamento Computacional;
+- Adoro Tecnologias e Educação Financeira;
+- oliveira.joao7@escola.pr.gov.br
+- ### Estou  aprendendo ...
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
